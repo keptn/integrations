@@ -1,5 +1,5 @@
 ---
-name: New integration
+name: "🔌 New integration"
 about: Suggest an idea for a new integration
 title: ''
 labels: 'integrations'
