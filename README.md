@@ -19,6 +19,7 @@ This repository lists Keptn Integrations and ideas for new ones.
 
 ## Developer information
 
+- [Hosting new integrations](https://github.com/keptn-sandbox/contributing/blob/master/CONTRIBUTING.md)
 - [Metadata for Integrations site and ArtifactHub](https://github.com/keptn-contrib/artifacthub).
 - We have separate GitHub organizations for integration services
   - [keptn-contrib](https://github.com/keptn-contrib) contains stable services/integrations
