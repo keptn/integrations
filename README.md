@@ -1,7 +1,7 @@
 # Keptn Integrations
 
-Keptn as a control-plane integrates with various different tools and can be extended with your own tools.
-This can be achieved through specialized integration services or through generic services.
+Keptn as a control-plane integrates with various tools and can be extended with your own tools,
+using either specialized integration services or generic services.
 
 This repository lists Keptn Integrations and ideas for new ones.
 
