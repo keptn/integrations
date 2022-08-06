@@ -72,3 +72,10 @@ body:
     attributes:
       label: Any other info?
       description: Any other info that might assist in developing / prioritising this integration?
+
+  - type: markdown
+    id: support
+    attributes:
+      value: |
+        If you need this integration, click the thumbs up emoji 👍 .
+        If you are willing to "sponsor" (ie. technically support or co-develop) this integration, click the heart emoji ❤️.
