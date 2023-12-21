@@ -1,5 +1,7 @@
 # Keptn Integrations
 
+## Keptn V1 has reached end of life on December 22nd, 2023 and has been replaced.
+
 Keptn as a control-plane integrates with various tools and can be extended with your own tools,
 using either specialized integration services or generic services.
 
